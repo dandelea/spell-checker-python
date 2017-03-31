@@ -1,4 +1,4 @@
-# text-corrector-python
+# spell-checker-python
 
 ## Description
 ### English
